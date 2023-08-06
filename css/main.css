@@ -2471,8 +2471,11 @@ textarea.form-control:focus, textarea.form-control:active {
     margin-top: 0;
 }
 
+/* Professional Skills Style */
 .progress-container {
     position: relative;
+    margin-bottom: 20px;
+    font-size: 18px;
 }
 
 .progress-container + .progress-container,
@@ -5115,7 +5118,7 @@ Created using IcoMoon - icomoon.io
     position: relative;
     background-position: center center;
     background-size: cover;
-    box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 10px 25px 0 rgba(0, 0, 0, 0.3);
     border-radius: .25rem;
 }
 
@@ -7031,11 +7034,7 @@ Created using IcoMoon - icomoon.io
     margin-right: 8px;
 }
 
-/* Professional Skills Style */
-.progress-container {
-    margin-bottom: 20px;
-    font-size: 18px;
-}
+
 
 .progress-container .progress-bar {
     height: 5px;
@@ -7157,4 +7156,62 @@ a.credit {
 /* Common Style */
 .section {
     padding-bottom: 0;
+}
+
+/* for chips  https://codepen.io/debabrata100/pen/pOLyPW */
+.chip{
+    display: inline-flex;
+    flex-direction: row;
+    background-color: #e5e5e5;
+    border: none;
+    cursor: default;
+    height: 36px;
+    outline: none;
+    padding: 0;
+    font-size: 14px;
+    white-space: nowrap;
+    align-items: center;
+    border-radius: 12px;
+    vertical-align: middle;
+    text-decoration: none;
+    justify-content: center;
+    margin: 5px;
+}
+.chip-head{
+    display: flex;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    align-items: center;
+    user-select: none;
+    border-radius: 50%;
+    justify-content: center;
+    width: 36px;
+    color: #fff;
+    height: 36px;
+    margin-right: -4px;
+}
+.chip-content{
+    cursor: inherit;
+    display: flex;
+    align-items: center;
+    user-select: none;
+    white-space: nowrap;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.chip-svg{
+    color: #999999;
+    cursor: pointer;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    font-size: 30px;
+    user-select: none;
+    flex-shrink: 0;
+    margin-left: 10px;
+}
+.chip-svg:hover{
+    color: #666666;
 }
