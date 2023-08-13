@@ -35,8 +35,8 @@
                     <ul class="navbar-nav">
                         <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">About</a></li>
                         <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
-                        <li class="nav-item"><a class="nav-link smooth-scroll" href="#position">Current Position</a>
-                        </li>
+                        <li class="nav-item"><a class="nav-link smooth-scroll" href="#selfInitiatives">Self Initiatives</a>
+                        <li class="nav-item"><a class="nav-link smooth-scroll" href="#position">Current Position</a></li>
                     </ul>
                 </div>
             </div>
@@ -255,7 +255,7 @@
                     </div>
                     <div class="col">
                         <div class="card h-100">
-                            <h5 class="card-header">Devops & Source Control</h5>
+                            <h5 class="card-header">Source Control | Devops | Cloud</h5>
                             <div class="card-body">
                                 <div class="chip">
                                     <img class="chip-svg" alt="Docker" src="images/docker.svg"/>
@@ -281,6 +281,52 @@
                                     <img class="chip-svg" alt="GIT" src="images/git.svg"/>
                                     <div class="chip-content">GIT</div>
                                 </div>
+                                <div class="chip  ps-3 pe-3">
+                                    <div class="chip-content">
+                                        <img class="chip-svg m-0" alt="AWS" src="images/aws.svg"/>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card h-100">
+                            <h5 class="card-header">Tools </h5>
+                            <div class="card-body">
+                                <div class="chip ps-2 pe-2">
+                                    <div class="chip-content">
+                                        <img class="chip-svg2 m-0" alt="Maven" src="images/maven.svg"/>
+                                    </div>
+                                </div>
+                                <div class="chip">
+                                    <div class="chip-content">
+                                        <img class="chip-svg" alt="Gradle" src="images/gradle.svg"/>
+                                        <div class="chip-content">Gradle</div>
+                                    </div>
+                                </div>
+                                <div class="chip">
+                                    <div class="chip-content">
+                                        <img class="chip-svg m-0" alt="Intellij Idea" src="images/intellij-idea.svg"/>
+                                        <div class="chip-content">Intellij Idea</div>
+                                    </div>
+                                </div>
+                                <div class="chip">
+                                    <div class="chip-content">
+                                        <img class="chip-svg m-0" alt="Netbeans" src="images/netbeans.svg"/>
+                                        <div class="chip-content">Netbeans</div>
+                                    </div>
+                                </div>
+                                <div class="chip">
+                                    <div class="chip-content">
+                                        <b style="color: #D22128">J<span style="color: black">Meter</span></b>
+                                    </div>
+                                </div>
+                                <div class="chip">
+                                    <div class="chip-content">
+                                        <img class="chip-svg m-0" alt="Gatling" src="images/gatling.svg"/>
+                                        <div class="chip-content">Gatling</div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -303,13 +349,14 @@
                     </h2>
                     <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show"
                          aria-labelledby="panelsStayOpen-headingOne">
-                        <div class="accordion-body">
+                        <div class="accordion-body" style="column-count: 2;column-gap:2vw;text-align: left;">
                             <p>In the vast landscape of software engineering,
                                 I have discovered a profound and unyielding passion for continuous learning.
                                 Fueling this passion is a self-initiated journey through the pages of various books
                                 that delve deep into the art and science of software development.
                                 These books are not mere assignments;
-                                they are chosen expressions of my love for the subject and my unwavering desire to grow as a software engineer.</p>
+                                they are chosen expressions of my love for the subject and my unwavering desire to grow
+                                as a software engineer.</p>
                         </div>
                     </div>
                 </div>
@@ -323,7 +370,7 @@
                     </h2>
                     <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse"
                          aria-labelledby="panelsStayOpen-headingTwo">
-                        <div class="accordion-body">
+                        <div class="accordion-body" style="column-count: 2;column-gap:2vw;text-align: left;">
                             I embarked on a singular mission or a vision
                             to transform healthcare delivery through innovation.<br>
                             With unwavering determination and countless hours of effort,
@@ -356,7 +403,7 @@
                     </h2>
                     <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse"
                          aria-labelledby="panelsStayOpen-headingThree">
-                        <div class="accordion-body">
+                        <div class="accordion-body" style="column-count: 2;column-gap:2vw;text-align: left;">
                             On my GitHub profile,
                             you'll find a collection of projects
                             that I've meticulously crafted with the intention
@@ -384,7 +431,8 @@
                              data-aos-anchor-placement="top-bottom">
                             <a href="https://www.emiratesgroupcareers.com/information-technology">
                                 <figure class="cc-effect m-0">
-                                    <img class="m-auto" src="images/emirates1.svg" width="300px" height="300px" alt="Image">
+                                    <img class="m-auto" src="images/emirates1.svg" width="300px" height="300px"
+                                         alt="Image">
                                     <figcaption>
                                         <div class="h4">The Emirates Group</div>
                                         <p>Backend & Microservices</p>
@@ -422,32 +470,33 @@
         document.getElementById("yearsOfExperience").innerText =
             String(new Date().getFullYear() - 2018);
 
-        var skills = ["Spring Framework"
-            , "Sprig Boot"
-            , "Java"
-            , "Microservices"
-            , "Event Driven Design"
-            , "Test Driven Design"
-            , "Domain Driven Design"
-            , "Reactive Programming"
-            , "JavaFX"
-            , "Android Development"
-            , "Docker"
-            , "Kubernetes"
-            , "NoSQL Databases"
-            , "Relational Databases"
-            , "Jasper Reports"
-            , "Hibernate"
-            , "Javascript"
-            , "Python"
-            , "Istio"
-            , "Openshift"
-            , "Web Application Security"
-            , "Keycloak"
-            , "ELK stack"
-            , "Drools"
-            , "Redis"];
-        let skillsContainer = document.getElementById("skillsContainer");
+        //     var skills = ["Spring Framework"
+        //         , "Sprig Boot"
+        //         , "Java"
+        //         , "Microservices"
+        //         , "Event Driven Design"
+        //         , "Test Driven Design"
+        //         , "Domain Driven Design"
+        //         , "Reactive Programming"
+        //         , "JavaFX"
+        //         , "Android Development"
+        //         , "Docker"
+        //         , "Kubernetes"
+        //         , "NoSQL Databases"
+        //         , "Relational Databases"
+        //         , "Jasper Reports"
+        //         , "Hibernate"
+        //         , "Javascript"
+        //         , "Python"
+        //         , "Istio"
+        //         , "Openshift"
+        //         , "Web Application Security"
+        //         , "Keycloak"
+        //         , "ELK stack"
+        //         , "Drools"
+        //         , "Redis"];
+        //     let skillsContainer = document.getElementById("skillsContainer");
+        // }
     }
 </script>
 </body>

@@ -7207,12 +7207,43 @@ a.credit {
     fill: currentColor;
     width: 1em;
     height: 1em;
+    height: 1em;
     display: inline-block;
     font-size: 30px;
     user-select: none;
     flex-shrink: 0;
     margin-left: 10px;
 }
-.chip-svg:hover{
+.chip-svg2{
+    color: #999999;
+    cursor: pointer;
+    fill: currentColor;
+    width: 1.7em;
+    height: 1.7em;
+    display: inline-block;
+    font-size: 30px;
+    user-select: none;
+    flex-shrink: 0;
+    margin-left: 10px;
+}
+.chip-svg:hover, .chip-svg2:hover{
     color: #666666;
 }
+
+/*self initiatives*/
+.accordion-button,.accordion-button:not(.collapsed){
+    background-color: #22272E;
+    color: white;
+}
+.accordion-button::after {
+    color: white;
+    fill: white;
+    background-image: url("../images/up.svg");
+}
+.accordion-button:not(.collapsed)::after {
+    color: white;
+    fill: white;
+    background-image: url("../images/up.svg");
+    transform: var(--bs-accordion-btn-icon-transform);
+}
+
