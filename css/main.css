@@ -6897,6 +6897,7 @@ Created using IcoMoon - icomoon.io
 .gallery figure.cc-effect img,
 .gallery figure.cc-effect .h4 {
     transform: scale(1.06, 1.0);
+    background-color: #D71A21;
 }
 
 .gallery figure.cc-effect img,
