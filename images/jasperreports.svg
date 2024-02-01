@@ -1,136 +1,96 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-
-<svg
-   width="1500"
-   height="300"
-   viewBox="0 0 60.000001 12"
-   version="1.1"
-   id="svg2"
-   sodipodi:docname="jasperreports.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#111111"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="1"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.68677746"
-     inkscape:cx="760.79957"
-     inkscape:cy="93.916885"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs2">
-    <rect
-       x="32.947231"
-       y="140.02574"
-       width="746.46075"
-       height="425.22522"
-       id="rect2" />
-  </defs>
-  <text
-     xml:space="preserve"
-     transform="matrix(0.04,0,0,0.04,-4.5603765,-11.841047)"
-     id="text2"
-     style="font-size:192px;line-height:1.25;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';white-space:pre;shape-inside:url(#rect2);display:inline" />
-  <text
-     xml:space="preserve"
-     style="font-size:1.49333px;line-height:1.25;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';stroke-width:0.04"
-     x="5.241425"
-     y="4.2207284"
-     id="text3"><tspan
-       id="tspan3"
-       style="stroke-width:0.04"
-       x="5.241425"
-       y="4.2207284" /></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.68px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.04"
-     x="0.99946898"
-     y="2.7792881"
-     id="text4"><tspan
+<svg width="1400"
+     height="800"
+     viewBox="0 0 56.000001 32"
+     version="1.1"
+     id="svg2"
+     xmlns="http://www.w3.org/2000/svg">
+    <defs id="defs2">
+        <rect x="32.947231"
+              y="140.02574"
+              width="746.46075"
+              height="425.22522"
+              id="rect2"/>
+    </defs>
+    <text xml:space="preserve"
+          transform="matrix(0.04,0,0,0.04,-4.5603765,-11.841047)"
+          id="text2"
+          style="font-size:192px;line-height:1.25;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';white-space:pre;shape-inside:url(#rect2);display:inline"/>
+    <text xml:space="preserve"
+          style="font-size:1.49333px;line-height:1.25;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';stroke-width:0.04"
+          x="5.241425"
+          y="4.2207284"
+          id="text3">
+        <tspan id="tspan3"
+               style="stroke-width:0.04"
+               x="5.241425"
+               y="4.2207284"/>
+    </text>
+    <text xml:space="preserve"
+          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.68px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.04"
+          x="0.99946898"
+          y="2.7792881"
+          id="text4"><tspan
        id="tspan4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.04"
        x="0.99946898"
        y="2.7792881" /></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.68px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.04"
-     x="-0.44197255"
-     y="-0.021226242"
-     id="text5"><tspan
+    <text xml:space="preserve"
+          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.68px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.04"
+          x="-0.44197255"
+          y="-0.021226242"
+          id="text5"><tspan
        id="tspan5"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.04"
        x="-0.44197255"
        y="-0.021226242" /></text>
-  <text
-     xml:space="preserve"
-     style="font-size:10.6667px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.04"
-     x="0.71118039"
-     y="1.7908713"
-     id="text6"><tspan
+    <text xml:space="preserve"
+          style="font-size:10.6667px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.04"
+          x="0.71118039"
+          y="1.7908713"
+          id="text6"><tspan
        id="tspan6"
        style="font-size:10.6667px;stroke-width:0.04"
        x="0.71118039"
        y="1.7908713" /></text>
-  <text
-     xml:space="preserve"
-     style="font-size:7.68px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.04"
-     x="2.0290701"
-     y="3.3146808"
-     id="text7"><tspan
+    <text xml:space="preserve"
+          style="font-size:7.68px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.04"
+          x="2.0290701"
+          y="3.3146808"
+          id="text7"><tspan
        id="tspan7"
        style="stroke-width:0.04"
        x="2.0290701"
        y="3.3146808" /></text>
-  <text
-     xml:space="preserve"
-     style="font-size:7.68px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.04"
-     x="-1.8010457"
-     y="6.2387471"
-     id="text1"><tspan
-       sodipodi:role="line"
+    <text xml:space="preserve"
+          style="font-size:7.68px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.04"
+          x="-1.8010457"
+          y="6.2387471"
+          id="text1"><tspan
        id="tspan1"
        style="font-size:7.68px;stroke-width:0.04"
        x="-1.8010457"
        y="6.2387471" /></text>
-  <text
-     xml:space="preserve"
-     style="font-size:7.68px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.04"
-     x="-0.85381275"
-     y="6.0740113"
-     id="text8"><tspan
-       sodipodi:role="line"
+    <text xml:space="preserve"
+          style="font-size:7.68px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.04"
+          x="-0.85381275"
+          y="6.0740113"
+          id="text8"><tspan
        id="tspan2"
        style="font-size:7.68px;stroke-width:0.04"
        x="-0.85381275"
-       y="6.0740113" /><tspan
-       sodipodi:role="line"
-       style="font-size:7.68px;stroke-width:0.04"
-       x="-0.85381275"
-       y="15.674011"
-       id="tspan8" /></text>
-  <text
-     xml:space="preserve"
-     style="font-size:7.68px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;stroke-width:0.04;fill:#4a8cca;fill-opacity:1"
-     x="4.8187513"
-     y="7.9368749"
-     id="text9"><tspan
-       sodipodi:role="line"
+       y="6.0740113" />
+        <tspan style="font-size:7.68px;stroke-width:0.04"
+               x="-0.85381275"
+               y="15.674011"
+               id="tspan8"/></text>
+    <text xml:space="preserve"
+          style="font-size:8.26667px;line-height:1.25;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;fill:#4a8cca;fill-opacity:1;stroke-width:0.04"
+          x="0.89517099"
+          y="18.084831"
+          id="text9"><tspan
        id="tspan9"
-       style="font-size:7.68px;stroke-width:0.04;fill:#4a8cca;fill-opacity:1"
-       x="4.8187513"
-       y="7.9368749">JasperReports</tspan></text>
+       style="font-size:8.26667px;fill:#4a8cca;fill-opacity:1;stroke-width:0.04"
+       x="0.89517099"
+       y="18.084831">JasperReports</tspan></text>
 </svg>
