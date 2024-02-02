@@ -76,25 +76,29 @@
   <g
      id="g10"
      transform="translate(-0.24832608,0.55467639)">
-    <text
-       xml:space="preserve"
-       style="font-weight:bold;font-size:10.6667px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#5382a1;fill-opacity:1;stroke-width:0.04"
-       x="1.1843749"
-       y="18.770855"
-       id="text8"><tspan
-         id="tspan8"
-         style="fill:#5382a1;fill-opacity:1;stroke-width:0.04"
-         x="1.1843749"
-         y="18.770855">Java</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:italic;font-weight:bold;font-size:10.6667px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold Italic';fill:#e76f00;fill-opacity:1;stroke-width:0.04"
-       x="20.138996"
-       y="18.770855"
-       id="text10"><tspan
-         id="tspan10"
-         style="fill:#e76f00;fill-opacity:1;stroke-width:0.04"
-         x="20.138996"
-         y="18.770855">FX</tspan></text>
+    <g
+       id="g1"
+       transform="translate(0.21590948)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:10.6667px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#5382a1;fill-opacity:1;stroke-width:0.04"
+         x="1.1649686"
+         y="18.770855"
+         id="text8"><tspan
+           id="tspan8"
+           style="fill:#5382a1;fill-opacity:1;stroke-width:0.04"
+           x="1.1649686"
+           y="18.770855">Java</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-weight:bold;font-size:10.6667px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri Bold Italic';fill:#e76f00;fill-opacity:1;stroke-width:0.04"
+         x="19.726583"
+         y="18.770855"
+         id="text10"><tspan
+           id="tspan10"
+           style="fill:#e76f00;fill-opacity:1;stroke-width:0.04"
+           x="19.726583"
+           y="18.770855">FX</tspan></text>
+    </g>
   </g>
 </svg>
